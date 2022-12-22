@@ -1,0 +1,5 @@
+Creando un ambiente de producción para un programa compilado con la versión 9 de Java.
+
+1. Descargar el JDK 9 en las computadoras del equipo de desarrollo
+2. Instalar IntelliJ o cualquier otra IDE de desarrollo para JAVA
+3. Asegurarse de seleccionar JDK 9 al momento de crear el proyecto.
