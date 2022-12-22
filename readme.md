@@ -11,3 +11,8 @@ Repositorio de ejercicios realizados en el curso de JAVA SE de Francisco Armando
   <q>Ejecutar una línea de código desde <i>JShell</i></q>
   <img src="https://i.ibb.co/zQWZTm4/imagen-2022-12-21-144257276.png" alt="imagen-2022-12-21-144257276" border="0">
 </p>
+
+<p>
+  <h2>Ejecutando archivos.jar desde CMD</h2>
+  <img src="https://i.ibb.co/SJrBMB4/imagen-2022-12-21-180905635.png" alt="imagen-2022-12-21-180905635" border="0">
+</p>
